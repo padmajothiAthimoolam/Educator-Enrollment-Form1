@@ -10,7 +10,7 @@ import { RHFCheckbox } from '../../components/RHFCheckbox';
 import { RHFDateTimePicker } from '../../components/RHFDateTimePicker';
 import { RHFDateRangePicker } from '../../components/RHFDateRangePicker';
 import { RHFSlider } from '../../components/RHFSlider';
-import { RHFSwitch } from '../../components/RHFSWitch';
+import { RHFSwitch } from '../../components/RHFSwitch';
 import { RHFTextField } from '../../components/RHFTextField';
 import { useCreateUser, useEditUser } from '../services/mutation';
 
