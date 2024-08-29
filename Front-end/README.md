@@ -77,11 +77,12 @@ npm install
 Start the development server:
 
 cd Back-end Directory and "npm run start"
+
 cd to Front-end Directory and run "npm run dev"
 
 Open the application in your browser:
 
-Visit [http://localhost:3000](http://localhost:5173/) to view the application.
+Visit (http://localhost:5173/) to view the application.
 
 Usage
 Form Handling: Use react-hook-form and zod for building and validating forms.
